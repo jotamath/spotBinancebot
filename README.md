@@ -1,5 +1,5 @@
 # spotBinancebot
-## Bot de SPOT Binance criado
+## Bot para Binance que opera no SPOT
 Criado para monitorar e fazer simples operações de compra e venda de um par de moedas SPOT na plataforma Binance.
 
 Para o exemplo foi utilizado Solana (SOL) <--> Real Brasileiro (BRL), com o ticker SOLBRL.
